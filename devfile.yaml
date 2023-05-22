@@ -15,7 +15,7 @@ metadata:
   provider: Red Hat
   supportUrl: https://github.com/devfile-samples/devfile-support#support-information
 parent:
-  id: java-springboot
+  id: udi
   registryUrl: 'https://registry.devfile.io'
 components:
   - name: image-build
